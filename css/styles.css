@@ -370,10 +370,6 @@ section{
     right: 1rem;
 }
 
-.products .box-container .box .fa-eye{
-    left: 1rem;
-}
-
 .products .box-container .box .cat{
     font-size: 2rem;
     color: var(--light-color);
